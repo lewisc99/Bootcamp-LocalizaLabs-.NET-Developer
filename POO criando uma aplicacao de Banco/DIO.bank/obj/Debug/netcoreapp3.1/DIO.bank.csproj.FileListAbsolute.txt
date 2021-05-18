@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\DIO\DIO.bank\bin\Debug\netcoreapp3.1\DIO.bank.exe
+C:\Users\Pichau\Desktop\DIO\DIO.bank\bin\Debug\netcoreapp3.1\DIO.bank.deps.json
+C:\Users\Pichau\Desktop\DIO\DIO.bank\bin\Debug\netcoreapp3.1\DIO.bank.runtimeconfig.json
+C:\Users\Pichau\Desktop\DIO\DIO.bank\bin\Debug\netcoreapp3.1\DIO.bank.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\DIO\DIO.bank\bin\Debug\netcoreapp3.1\DIO.bank.dll
+C:\Users\Pichau\Desktop\DIO\DIO.bank\bin\Debug\netcoreapp3.1\DIO.bank.pdb
+C:\Users\Pichau\Desktop\DIO\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\DIO\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\DIO\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\DIO\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\DIO\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.dll
+C:\Users\Pichau\Desktop\DIO\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.pdb
+C:\Users\Pichau\Desktop\DIO\DIO.bank\obj\Debug\netcoreapp3.1\DIO.bank.genruntimeconfig.cache
